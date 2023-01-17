@@ -21,8 +21,8 @@ Below picture is an example. It shows how to connect the power part.<br>
 <img src="photo/vesc_power_conn.jpeg" width="800"><br><br>
 
 Connect the encoder with vesc, if it has. (if doesn't, it is fine) Below picture show the connection.<br>
-<img src="photo/encoder_conn.jpeg">
-<img src="photo/encoder_conn2.jpeg" height="500"><br><br>
+<img src="photo/encoder_conn.jpeg" height="500">
+<img src="photo/encoder_conn2.png" height="500"><br><br>
 
 Then, connect the vesc to PC and turn on the estop. Run the VESC Tool. In "Welcome & Wizards" page, click "AutoConnect".<br>
 <img src="photo/conn1.bmp" width="800"><br><br>
