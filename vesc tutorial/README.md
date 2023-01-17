@@ -44,7 +44,7 @@ Back to "Welcome & Wizards" page, click "Setup Motors FOC" to calibrate.<br>
 It will show the pop up. Based on your devices, select the suitable choice. For example, DJI M3508 P19 is an outrunner motor and the weight is around 380g. Therefore, we select 200g outrunning motor. And click "Next". It will show a warning. If you confirm it is fine, just click yes.<br>
 <img src="calib2.bmp" width="800"><br><br>
 
-<img src="calib3.png" width="800"><br><br>
+<img src="[calib3.png](https://github.com/IVE-LWL-Robocon/public-training-resource/blob/main/vesc%20tutorial/photo/calib3.png)" width="800"><br><br>
 Select the type of battery, we always use Li-ion battery (鋰電池).<br>
 Below figures are example, it show how to know the number of cells series.<br>
 1. Check the label on the packet. "P" part means Parallel. The "S" part means "Series". "6S1P" means 6 cells in serises, 1 parallel. Therefore, we should type 6 in the box.<br><br>
@@ -52,10 +52,10 @@ Below figures are example, it show how to know the number of cells series.<br>
 Don't mxied up the "Series" and "Parallel", you should type **the number of "Series"**.<br>
 Otherwise it may damage the vesc, motor and battery*<br>
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!<br>
-<img src="batt1.jpeg" width="800"><br>
+<img src="[batt1.jpeg](https://github.com/IVE-LWL-Robocon/public-training-resource/blob/main/vesc%20tutorial/photo/batt1.jpeg)" width="800"><br>
 
 2. Count number of the packet number. <br>
-<img src="batt2.jpeg" width="800"><br><br>
+<img src="[batt2.jpeg](https://github.com/IVE-LWL-Robocon/public-training-resource/blob/main/vesc%20tutorial/photo/batt2.jpeg)" width="800"><br><br>
 
 The battery packet labels its capacity. 1000mAH = 1AH, transform by yourself or online calculator. In the example, 3200mAh = 3.2Ah, therefore we should type 3.2. And click "Next".<br>
 
