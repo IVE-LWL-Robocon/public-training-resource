@@ -21,7 +21,7 @@ Below picture is an example. It shows how to connect the power part.<br>
 <img src="vesc_power_conn.jpeg" width="800"><br><br>
 
 Connect the encoder with vesc, if it has. (if doesn't, it is fine) Below picture show the connection.<br>
-![image](https://github.com/IVE-LWL-Robocon/public-training-resource/blob/main/vesc%20tutorial/photo/encoder_conn.jpeg =500x500)
+![image](https://github.com/IVE-LWL-Robocon/public-training-resource/blob/main/vesc%20tutorial/photo/encoder_conn.jpeg "Title" {width=40px height=400px})
 <img src="encoder_conn2.bmp"><br><br>
 
 Then, connect the vesc to PC and turn on the estop. Run the VESC Tool. In "Welcome & Wizards" page, click "AutoConnect".<br>
