@@ -83,10 +83,10 @@ Brake with the current set in the lower left corner.<br>
 <img src="photo/keyboard.jpeg" width="800"><br><br>
 
 You can also change the value and press the button to turn on the motor. The following are the main settings that will be used.<br>
-1.Duty cycle
-2.RPM
-3.Full brake
-4.Switch off
+1.Duty cycle<br>
+2.RPM<br>
+3.Full brake<br>
+4.Switch off<br>
 <img src="photo/controlling2.png" width="800"><br><br>
 
 ## With coding: MUCs <a name="withcoding"></a>
