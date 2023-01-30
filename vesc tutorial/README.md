@@ -67,7 +67,15 @@ Wait a few mins, it will show you the message like below. It means the calibrati
 <img src="photo/setup2.bmp" width="800"><br>
 
 #### Controlling <a name="vesctool_control"></a>
-Coming soon~
+Click the "keyboard control". Then you can use the arrow keys to control the motor.<br><br>
+Up and Down Arrow Keys:<br>
+Current control using the current value in the lower left corner.<br><br>
+Right and Left Arrow Keys:<br>
+Duty cycle control. Slowly ramps up and down the cuty cycle. When e.g. starting with right and then also holding left, the duty cycle is ramped higher.<br><br>
+Page Down:<br>
+Brake with the current set in the lower left corner.<br>
+<img src="photo/controlling.png" width="800"><br>
+<img src="photo/keyboard.jpeg" width="800"><br><br>
 
 ## With coding: MUCs <a name="withcoding"></a>
 Coming soon~
