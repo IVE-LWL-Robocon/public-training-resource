@@ -67,15 +67,27 @@ Wait a few mins, it will show you the message like below. It means the calibrati
 <img src="photo/setup2.bmp" width="800"><br>
 
 #### Controlling <a name="vesctool_control"></a>
-Click the "keyboard control". Then you can use the arrow keys to control the motor.<br><br>
+1.Click the "Stream realtime data".<br>
+2.Click the "Realtime Data".<br>
+3.Open the RPM graphs.<br>
+If you run a motor and put some load on it, you can see that reflected right away in the RPM graphs.<br>
+<img src="photo/realtime.png" width="800"><br><br>
+Click the "Enable keyboard control". Then you can use the arrow keys to control the motor.<br>
+<img src="photo/controlling.png" width="800"><br>
 Up and Down Arrow Keys:<br>
 Current control using the current value in the lower left corner.<br><br>
 Right and Left Arrow Keys:<br>
 Duty cycle control. Slowly ramps up and down the cuty cycle. When e.g. starting with right and then also holding left, the duty cycle is ramped higher.<br><br>
 Page Down:<br>
 Brake with the current set in the lower left corner.<br>
-<img src="photo/controlling.png" width="800"><br>
 <img src="photo/keyboard.jpeg" width="800"><br><br>
+
+You can also change the value and press the button to turn on the motor. The following are the main settings that will be used.<br>
+1.Duty cycle
+2.RPM
+3.Full brake
+4.Switch off
+<img src="photo/controlling2.png" width="800"><br><br>
 
 ## With coding: MUCs <a name="withcoding"></a>
 Coming soon~
